@@ -1,0 +1,7 @@
+{
+    "name": "National Savings Certificates",
+    "interestRate": 7.7,
+    "minAmount": 1000,
+    "maturityInYears": 5,
+    "coumpoundingFrequencyInYears": 1
+}

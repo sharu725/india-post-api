@@ -1,0 +1,8 @@
+{
+    "name": "Public Provident Fund Account",
+    "interestRate": 7.1,
+    "minAmount": 500,
+    "maximumInAYear": 150000,
+    "maturityInYears": 15,
+    "coumpoundingFrequencyInYears": 1
+}

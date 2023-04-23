@@ -1,0 +1,8 @@
+{
+    "name": "Senior Citizens Savings Scheme Account",
+    "interestRate": 8.2,
+    "minAmount": 1000,
+    "maxAmount": 3000000,
+    "maturityInYears": 5,
+    "coumpoundingFrequencyInYears": 0.25
+}

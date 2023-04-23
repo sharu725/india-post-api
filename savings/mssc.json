@@ -1,0 +1,8 @@
+{
+    "name": "Mahila Samman Savings Certificate",
+    "interestRate": 7.5,
+    "minAmount": 1000,
+    "maximumInAYear": 200000,
+    "maturityInYears": 2,
+    "coumpoundingFrequencyInYears": 0.25
+}

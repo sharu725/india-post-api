@@ -1,0 +1,6 @@
+{
+    "name": "Post Office Savings Account",
+    "interestRate": 4,
+    "minAmount": 500,
+    "coumpoundingFrequencyInYears": 1
+}

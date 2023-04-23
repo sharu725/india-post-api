@@ -1,0 +1,8 @@
+{
+    "name": "Sukanya Samriddhi Account",
+    "interestRate": 8,
+    "minAmount": 250,
+    "maximumInAYear": 150000,
+    "maturityInYears": 21,
+    "coumpoundingFrequencyInYears": 1
+}

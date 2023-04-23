@@ -1,0 +1,13 @@
+{
+    "name": "National Savings Time Deposit Account",
+    "interestRate": 7.5,
+    "minAmount": 1000,
+    "interestOnYears": {
+        "1": 6.8,
+        "2": 6.9,
+        "3": 7,
+        "5": 7.5
+    },
+    "maturityInYears": 5,
+    "coumpoundingFrequencyInYears": 0.25
+}

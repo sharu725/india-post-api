@@ -1,0 +1,7 @@
+{
+    "name": "Kisan Vikas Patra",
+    "interestRate": 7.5,
+    "minAmount": 1000,
+    "maturityInYears": 9.58,
+    "coumpoundingFrequencyInYears": 1
+}
