@@ -1,6 +1,6 @@
 {
     "name": "National Savings Recurring Deposit Account",
-    "interestRate": 6.2,
+    "interestRate": 6.5,
     "minAmount": 100,
     "maturityInYears": 5
 }
